@@ -19,7 +19,7 @@ Use the following commands to compile and run the code:
 Use the following commands to compile and run the code:
 ![Screenshot](MyStringImages/s4.png)
 
-Thank You!
+
 Thank you for checking out MyString_Implementation! I hope you find the project useful. If you have any suggestions, feedback, or improvements, feel free to share them. Your thoughts and contributions are always welcome!
 
 Show Your Support:
